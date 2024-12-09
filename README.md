@@ -1,5 +1,9 @@
 # 💫 Hi! I'm Jonatan Cortinez:
-¡Hola! Soy un QA Automation de Argentina con más de 5 años de experiencia dedicados a asegurar la calidad del software mediante la implementación de pruebas automatizadas eficientes y de alto impacto. Mi misión es optimizar los procesos de desarrollo identificando y previniendo errores desde etapas tempranas, ayudando a construir productos confiables y de excelencia.<br><br>Mi experiencia incluye la automatización de pruebas para aplicaciones web y móviles, utilizando herramientas como Cypress, Detox y Postman, así como el diseño de casos de prueba que se ejecutan de forma rápida y precisa en pipelines integrados. Poseo un sólido manejo de JavaScript, TypeScript y SQL, lo que me permite abordar desde la creación de scripts avanzados hasta la validación de datos complejos.<br><br>Me apasiona aprender nuevas herramientas, frameworks y librerías para mantenerme a la vanguardia de la tecnología y garantizar que los productos que pruebo cumplan con los más altos estándares. Siempre busco colaborar en proyectos innovadores donde pueda aportar mis habilidades en automatización para impulsar el éxito del equipo. 🚀
+I’m a QA Automation Engineer from Argentina with over 5 years of experience making sure software is reliable and high-quality through smart and impactful automated testing. My goal is to streamline development processes by catching and preventing bugs early, helping deliver exceptional products.
+
+I’ve worked on test automation for both web and mobile apps using tools like Cypress, Detox, and Postman. I’m also skilled in writing fast and accurate test cases that integrate seamlessly into CI/CD pipelines. With solid knowledge of JavaScript, TypeScript, and SQL, I can handle everything from building advanced test scripts to validating complex datasets.
+
+I’m always looking to learn new tools, frameworks, and libraries to stay ahead in tech and ensure the products I test meet the highest standards. I’m excited to work on innovative projects where I can use my automation expertise to help the team succeed. 🚀
 
 <br>
 
