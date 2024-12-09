@@ -9,7 +9,7 @@ I’m always looking to learn new tools, frameworks, and libraries to stay ahead
 
 # 🌐 Connect with me:
 
-[![Discord](https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/discordapp.com/users/1057673302761553941) [![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)](https://linkedin.com/in/https://www.linkedin.com/in/jonatan-cortinez/)  [![Gmail](https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=)](mailto:jonaleo87@gmail.com) 
+[![Discord](https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=Discord&logoColor=white)](https://discordapp.com/users/1057673302761553941) [![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)](https://www.linkedin.com/in/jonatan-cortinez/)  [![Gmail](https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=)](mailto:jonaleo87@gmail.com) 
 
 <br>
 
