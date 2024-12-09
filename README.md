@@ -1,4 +1,4 @@
-# 💫 Hi! I'm Jonatan Cortinez:
+# 🐞 Hi! I'm Jonatan Cortinez:
 I’m a QA Automation Engineer from Argentina with over 5 years of experience making sure software is reliable and high-quality through smart and impactful automated testing. My goal is to streamline development processes by catching and preventing bugs early, helping deliver exceptional products.
 
 I’ve worked on test automation for both web and mobile apps using tools like Cypress, Detox, and Postman. I’m also skilled in writing fast and accurate test cases that integrate seamlessly into CI/CD pipelines. With solid knowledge of JavaScript, TypeScript, and SQL, I can handle everything from building advanced test scripts to validating complex datasets.
