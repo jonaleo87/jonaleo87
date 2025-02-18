@@ -59,10 +59,6 @@ I’m always looking to learn new tools, frameworks, and libraries to stay ahead
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![Bruno](https://img.shields.io/badge/Bruno-grey?style=for-the-badge&logo=bruno)
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jonaleo87&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jonaleo87&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jonaleo87&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
